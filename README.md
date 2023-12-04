@@ -13,6 +13,7 @@ Table of Contents
 -------
 <!-- vim-markdown-toc GFM --> 
 * [Support long press menu table](#support-long-press-menu-table)
+* [Installation](#installation)
 * [Toolbar buttons](#toolbar-buttons)
 	* [Play Button](#play-button)
 		* [Edit Site Usage](#edit-site-usage)
@@ -44,6 +45,15 @@ Table of Contents
 | src anchor | o |
 | src image anchor | o |
 | image | x |
+
+## Installation
+
+1. Install [ComamndClick](https://github.com/puutaro/CommandClick) to your android by [this link](https://github.com/puutaro/CommandClick#app-installation)
+2. Set up termux by [this link](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#termux-setting)
+3. Install this fannel by [install repo](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#install-fannel) or QR code
+4. Press [Install button](#install)
+
+
 
 ## Toolbar buttons
 
