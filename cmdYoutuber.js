@@ -363,7 +363,7 @@ function selectTubeListWhenWebSearchOff(){
 			return 
 				fileName.endsWith(TSV_SUFFIX) 
 				&& fileName != webSearchTubeTsvName
-		}).join("\t");
+		}).join("\n");
 	return jsDialog.listDialog(
 			"Select bellow tube play list",
 			"",
